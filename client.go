@@ -15,7 +15,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/keegancsmith/rpc/internal/svc"
+	"github.com/sourcegraph/rpc/internal/svc"
 )
 
 // ServerError represents an error that has been returned from
